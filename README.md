@@ -1,0 +1,2 @@
+# cticbigdata
+repositorio de bigdata
